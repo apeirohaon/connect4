@@ -1,10 +1,3 @@
-/*
-Noah Cheff
-Lab 6: Semester Project
-09 May 2021
-Windows 10 Home Version 20H2, compiled with g++
-*/
-
 #include <iostream>
 #include <fstream>
 #include <string>
